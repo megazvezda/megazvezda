@@ -2,5 +2,5 @@
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=849255868951822366)
 
-https://t.me/kessokubando<br><br>
+https://t.me/shtolstar<br><br>
 https://github.com/digitaldrugstech
