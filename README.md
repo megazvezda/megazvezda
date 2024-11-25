@@ -1,1 +1,2 @@
-<p align="center"> Product Manager at [Digital Drugs Technologies](https://github.com/digitaldrugstech) </p>
+Product Manager at [Digital Drugs Technologies](https://github.com/digitaldrugstech)
+amir.shtol@digitaldrugs.tech
