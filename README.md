@@ -1,2 +1,2 @@
-Product Manager at [Digital Drugs Technologies](https://github.com/digitaldrugstech)<br>
+[Digital Drugs Technologies](https://github.com/digitaldrugstech)<br>
 amir.shtol@digitaldrugs.tech
